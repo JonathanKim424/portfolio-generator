@@ -1,4 +1,5 @@
-# Portfolio Generator [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Portfolio Generator
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
 An application that will generate a professional README based on user input.
